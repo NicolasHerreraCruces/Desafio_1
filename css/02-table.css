@@ -1,0 +1,38 @@
+.campos{
+    text-align: center;
+    margin-left: 50px;
+    background-color: blue;
+}
+
+.titulo{
+    text-align: center;
+    padding-right: 30;
+}
+
+.table{
+    margin-top: 150;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+.cuerpo{
+    text-align: center;
+    background-color: white;
+
+}
+
+.padding{
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.pieT{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 210px;
+}
+
+
